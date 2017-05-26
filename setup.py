@@ -54,4 +54,5 @@ setup(
         'Topic :: Software Development :: Quality Assurance',
     ],
     keywords='git pre-commit hook pep8 pep8-naming flake8 mccabe frosted',
+    use_2to3=True,
 )
